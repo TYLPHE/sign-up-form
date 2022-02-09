@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign-up Form</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="side">
+    <div>
+      <img src="odin-lined.png" alt="The Odin Project Logo">
+      Chicken
+    </div>
+    <div>Photo by <a href="https://unsplash.com/photos/GyV6SL_fKsI" target="_blank">Alison Marras on Unsplash</a></div>
+  </div>
+  <div class="main">  
+    <p class="desc">This is not a real online service! You know you need something like this in your life to help you realize your deepest dreams. Sign up <i>now</i> to get started.
+    <br><br>
+    You <i>know</i> you want to
+    </p>
+    <form action="" class="form">
+      <div>Let's do this!</div>
+      <p>
+        <label for="first-name">
+          First name
+          <input type="text" id="first-name" placeholder="Thor" required>
+        </label>
+        <label for="last-name">
+          Last Name
+          <input type="text" id="last-name" placeholder="Odinson" required>
+        </label>
+      </p>
+      <p>
+        <label for="email">
+          Email
+          <input type="email" id="email" required>
+        </label>
+        <label for="phone">
+          Phone Number
+          <input type="tel" id="phone" placeholder="888 888 8888" pattern="[0-9]{3} [0-9]{3} [0-9]{4}" maxlength="12"  title="Ten digits code" required>
+        </label>
+      </p>
+      <p>
+        <label for="password">
+          Password
+          <input type="password" id="password">
+        </label>
+        <label for="confirmation">
+          Confirm Password
+          <input type="text" id="confirmation">
+        </label>
+      </p>
+      <button type="submit">Create Account</button>
+    </form>
+    <div class="have-account">Already have an account? <a href="" target="_blank">Log in</a></div>
+  </div>
+</body>
+</html>
