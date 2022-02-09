@@ -1,4 +1,4 @@
-[See my progress here!](TYLPHE.github.io/sign-up-form/)
+[See my progress here!](https://TYLPHE.github.io/sign-up-form/)
 
 # sign-up-form
 
