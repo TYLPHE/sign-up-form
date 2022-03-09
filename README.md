@@ -12,4 +12,4 @@
 ## About
 This project focuses on the positioning of the contents on the web page. Here, I use flexbox to center content to their respective sections. The input fields are the various built-in input types such as "email", "password", and "button". 
 
-The intermediate HTML and CSS sections of The Odin Project were add-ons after I had already completed the foundations course. I was already comfortable with many of the concepts in this lesson and quickly constructed this sign-up form to imitate the example design file linked above. 
+The intermediate HTML and CSS sections of The Odin Project were add-ons after I had already completed the foundations course and moved on to JavaScript. I was already comfortable with many of the concepts in this lesson and quickly constructed this sign-up form to imitate the example design file linked above. 
