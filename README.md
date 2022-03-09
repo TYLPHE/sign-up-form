@@ -7,7 +7,7 @@
 - [Link to the assignment](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css/lessons/sign-up-form)
 
 ## Features
-- Designed to imitate [The Odin Project's design file](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css/lessons/sign-up-form) 
+- Designed to imitate [The Odin Project's design file](https://cdn.statically.io/gh/TheOdinProject/curriculum/5f37d43908ef92499e95a9b90fc3cc291a95014c/html_css/project-sign-up-form/sign-up-form.png) 
 
 ## About
 This project focuses on the positioning of the contents on the web page. Here, I use flexbox to center content to their respective sections. The input fields are the various built-in input types such as "email", "password", and "button". 
